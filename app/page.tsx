@@ -240,8 +240,8 @@ export default function HomePage() {
                   ))}
                 </div>
                 <p className="text-gray-600 mb-4">
-                  "Fue mi trabajo de título y una experiencia increíble. Aprendí más en 6 meses que en toda la carrera.
-                  Ahora trabajo en consultoría."
+                  {`Fue mi trabajo de título y una experiencia increíble. Aprendí más en 6 meses que en toda la carrera.
+                  Ahora trabajo en consultoría.`}
                 </p>
                 <div className="flex items-center">
                   <div>
