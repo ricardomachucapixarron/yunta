@@ -220,8 +220,8 @@ export default function HomePage() {
                   ))}
                 </div>
                 <p className="text-gray-600 mb-4">
-                  "El proyecto de optimización de inventarios nos ahorró $3M en el primer año. La metodología fue
-                  impecable y el estudiante muy profesional."
+                  'El proyecto de optimización de inventarios nos ahorró $3M en el primer año. La metodología fue
+                  impecable y el estudiante muy profesional.'
                 </p>
                 <div className="flex items-center">
                   <div>
